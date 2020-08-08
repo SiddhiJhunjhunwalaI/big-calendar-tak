@@ -1,0 +1,20 @@
+.rbc-date-cell > a {
+  font-size: 24px;
+}
+
+.rbc-event {
+  background-color: #635ebe ;
+  font-size: 14px !important;
+}
+
+.rbc-off-range-bg {
+  background: #e8e7f7 !important;
+}
+
+.badge {
+  cursor: pointer;
+}
+
+.cp {
+  cursor: pointer;
+}
